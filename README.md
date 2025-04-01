@@ -82,6 +82,4 @@ Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 
 
 
-## Code Explanation
-### `app.py` (Main Script)
-1. **Load YAML Data**: R
+
